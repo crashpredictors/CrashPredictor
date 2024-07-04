@@ -1,0 +1,4 @@
+1. Go to the releases tab on the right side of your screen.
+2. Download by clicking blue link at the bottom of page or by going here:
+3. Right click the archive and select 7zip -> Extract here. If you are on Windows 11 then click "Show more options" and find 7zip.
+4. Run the crash predictor installer to activate the free trial.
